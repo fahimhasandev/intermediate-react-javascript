@@ -19,3 +19,18 @@ numbers.forEach((num) => {
 });
 
 //objects in array
+const data = [
+  {
+    name: "john",
+    age: 34,
+  },
+  {
+    name: "jessica",
+    age: 45,
+  },
+  {
+    name: "jack",
+    age: 134,
+  },
+];
+console.log(data);
